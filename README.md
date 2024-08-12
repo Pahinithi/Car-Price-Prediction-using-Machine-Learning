@@ -21,7 +21,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/Pahinithi/car-price-prediction.git](https://github.com/Pahinithi/Car-Price-Prediction-using-Machine-Learning)
+   git clone https://github.com/Pahinithi/Car-Price-Prediction-using-Machine-Learning
    ```
 2. **Navigate to the project directory:**
    ```bash
